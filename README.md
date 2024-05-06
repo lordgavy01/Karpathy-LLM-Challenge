@@ -3,14 +3,14 @@
 This project details our attempt at tackling the [Karpathy LLM Challenge](https://twitter.com/karpathy/status/1760740503614836917) using the OpenAI GenAI stack solely. For an in-depth understanding of the challenge vision, refer to this [sample output](https://t.co/AybDNA28sC).
 
 ## Apis Required
-To run this project you will need to have OpenAI API-Key and IMGBB API-Key. Save these secrets in a secrets.yaml file in the following format:
+To run this project you will need to have OpenAI API-Key and IMGBB API-Key. Save these secrets in secrets.yaml file in the following format:
 
 ```yaml
 OPENAI_API_KEY :
 IMGBB_API_KEY : 
 ```
 
-Click here for more details related to [OpenAI API][https://openai.com/index/openai-api] and [IMGBB API][https://api.imgbb.com/]
+Click here for more details related to [OpenAI API](https://openai.com/index/openai-api) and [IMGBB API](https://api.imgbb.com/)
 
 ## Execution 
 
