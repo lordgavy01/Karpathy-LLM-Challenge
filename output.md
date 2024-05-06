@@ -2,28 +2,27 @@
 
 In this blog, we delve into a series of captivating images that span a range of emotions, settings, and narratives. Each photograph, a still from what appears to be a collection of historical or fantasy-themed films, tells a story of its own, inviting viewers to immerse themselves in the dramatic and often intense atmospheres captured within. From the heat of battle to serene moments of contemplation, these images offer a glimpse into various worlds, each marked by its distinctive mood and aesthetic.
 
+
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [The Gaze of a Warrior](#the-gaze-of-a-warrior)
-3. [The First Step of a Steed](#the-first-step-of-a-steed)
-4. [Guardians of the Realm](#guardians-of-the-realm)
-5. [A Leader Among Men](#a-leader-among-men)
-6. [Contemplation by the Waters](#contemplation-by-the-waters)
-7. [A Tense Encounter](#a-tense-encounter)
-8. [The Look of Determination](#the-look-of-determination)
-9. [In the Midst of Battle](#in-the-midst-of-battle)
-10. [A Moment of Aggression](#a-moment-of-aggression)
-11. [The Lone Climber](#the-lone-climber)
-12. [A Sea of Sails](#a-sea-of-sails)
-13. [Ready for the Fight](#ready-for-the-fight)
-14. [Silhouettes Against the Sky](#silhouettes-against-the-sky)
-15. [The Warrior's Gaze](#the-warriors-gaze)
-16. [Abstract and Artistic](#abstract-and-artistic)
-17. [Prepared for Battle](#prepared-for-battle)
-18. [The Phalanx](#the-phalanx)
-19. [A Moment of Intensity](#a-moment-of-intensity)
-20. [Conclusion](#conclusion)
+- [Capturing Moments of Intensity: A Visual Exploration](#capturing-moments-of-intensity-a-visual-exploration)
+  - [Table of Contents](#table-of-contents)
+    - [Introduction](#introduction)
+    - [The Gaze of a Warrior](#the-gaze-of-a-warrior)
+    - [The First Step of a Steed](#the-first-step-of-a-steed)
+    - [Guardians of the Realm](#guardians-of-the-realm)
+    - [A Leader Among Men](#a-leader-among-men)
+    - [Contemplation by the Waters](#contemplation-by-the-waters)
+    - [A Tense Encounter](#a-tense-encounter)
+    - [The Look of Determination](#the-look-of-determination)
+    - [In the Midst of Battle](#in-the-midst-of-battle)
+    - [A Moment of Aggression](#a-moment-of-aggression)
+    - [The Lone Climber](#the-lone-climber)
+    - [A Sea of Sails](#a-sea-of-sails)
+    - [Ready for the Fight](#ready-for-the-fight)
+    - [Silhouettes Against the Sky](#silhouettes-against-the-sky)
+    - [The Warrior's Gaze](#the-warriors-gaze)
+    - [Conclusion](#conclusion)
 
 ### Introduction
 
