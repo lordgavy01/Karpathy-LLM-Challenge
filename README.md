@@ -40,3 +40,6 @@ You can view the output finally in the streamlit page only or locally it will be
 For further technical comprehension, review our [design inspiration](https://x.com/MisbahSy/status/1763639317270786531).
 
 We welcome feedback, contributions or innovative ideas for future enhancement.
+
+## Contact
+In case of any queries/discussions/ideas reach out at lordgavy01@gmail.com.
