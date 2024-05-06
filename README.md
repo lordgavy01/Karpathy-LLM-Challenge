@@ -2,6 +2,10 @@
 
 This project details our attempt at tackling the [Karpathy LLM Challenge](https://twitter.com/karpathy/status/1760740503614836917) using the OpenAI GenAI stack solely. For an in-depth understanding of the challenge vision, refer to this [sample output](https://t.co/AybDNA28sC).
 
+## Sample Outputs
+
+We have compiled results for sample outputs [here](https://github.com/lordgavy01/Karpathy-LLM-Challenge/tree/main/Sample%20Outputs)
+
 ## Apis Required
 To run this project you will need to have OpenAI API-Key and IMGBB API-Key. Save these secrets in secrets.yaml file in the following format:
 
@@ -22,9 +26,9 @@ docker build -t karpathy-challenge ./Docker
 # Run the Docker image
 docker run -v $(pwd):/Karpathy-Challenge -p 8501:8501 karpathy-challenge
 ```
-Post this, view the Streamlit webpage on localhost:8501 to commence interaction.
+Post this, and view the Streamlit webpage on localhost:8501 to commence interaction.
 
-You can view the output finally in streamlit page only or locally it will be saved as output.md.
+You can view the output finally in the streamlit page only or locally it will be saved as output.md .
 
 ## Future Goals
 1. Enhance cost-effectiveness per video execution
