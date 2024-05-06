@@ -1,6 +1,6 @@
 # Karpathy Challenge
 
-This project details our attempt at tackling the [Karpathy LLM Challenge](https://twitter.com/karpathy/status/1760740503614836917) using the OpenAI GenAI stack solely. For an in-depth understanding of the challenge's vision, refer to this [sample output](https://t.co/AybDNA28sC).
+This project details our attempt at tackling the [Karpathy LLM Challenge](https://twitter.com/karpathy/status/1760740503614836917) using the OpenAI GenAI stack solely. For an in-depth understanding of the challenge vision, refer to this [sample output](https://t.co/AybDNA28sC).
 
 ## Execution 
 

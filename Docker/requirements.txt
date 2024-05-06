@@ -1,0 +1,11 @@
+opencv-python
+moviepy
+pytesseract
+nest-asyncio
+scikit-image
+openai
+matplotlib
+pyyaml
+streamlit
+IPython
+markdown

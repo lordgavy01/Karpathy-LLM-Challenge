@@ -1,0 +1,6 @@
+ffmpeg
+libleptonica-dev
+tesseract-ocr
+libtesseract-dev
+python3-pil
+tesseract-ocr-eng
